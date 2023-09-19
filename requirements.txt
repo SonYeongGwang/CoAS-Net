@@ -1,0 +1,5 @@
+opencv-contrib-python>=4.5.5.64
+open3d>=0.15.2
+torch
+numpy
+pyrealsense2
