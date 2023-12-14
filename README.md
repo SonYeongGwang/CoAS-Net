@@ -8,6 +8,22 @@ CoAS-Net is a CNN-based suction grasp detection network trained with our large-s
 
 <br />
 
+# Citing
+
+If you find our work useful in your work, please consider citing:
+
+```
+@ARTICLE{10333337,
+  author={Son, Yeong Gwang and Bui, Tat Hieu and Hong, Juyong and Kim, Yong Hyeon and Moon, Seung Jae and Kim, Chun Soo and Rhee, Issac and Kang, Hansol and Ryeol Choi, Hyouk},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={CoAS-Net: Context-Aware Suction Network With a Large-Scale Domain Randomized Synthetic Dataset}, 
+  year={2024},
+  volume={9},
+  number={1},
+  pages={827-834},
+  doi={10.1109/LRA.2023.3337692}}
+```
+
 # How to Use?
 The code has been tested on ubuntu `18.04`, `20.04` with `CUDA 11.x` and `pytorch 1.10.2`. We tested our network with Intel Realsense **L515** and Microsoft **AzureKinect**.
 
