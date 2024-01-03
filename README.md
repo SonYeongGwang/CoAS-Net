@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```
 
 **2. Download model checkpoint.**
-- [Model Checkpoint](https://o365skku-my.sharepoint.com/:f:/g/personal/syoungk20_o365_skku_edu/Es5_B8mhHlJAk2LGB-9Zx3cBcUvxAShcSrDP2m0MZYJWkA?e=GI5d8e)
+- [Model Checkpoint](https://1drv.ms/f/s!AlqN2F6V1VqhgZkXWP6NTYUEOgDfVQ?e=vBJ3bN)
 ```
 cd CoAS-Net
 mkdir checkpoint
@@ -98,10 +98,10 @@ CoAS-Dataset
 
 - Object pose and camera pose are defined with respect to the world frame of Isaac sim.
 
-You can download our dataset from [RGB-D dataset](https://o365skku-my.sharepoint.com/:f:/g/personal/syoungk20_o365_skku_edu/El6x_qcSfwNGvvIlWl1GuJ8BP3FEfseothtk2DDMbwUjYQ?e=D6rerx) link.
+You can download our dataset from [RGB-D dataset](https://1drv.ms/f/s!AlqN2F6V1VqhgbBykFBQvehIzm0tWA?e=AR6g3G) link.
 We recommend you to have free space > 100GB in you disk(s) for using our dataset.
 
-Also you can download 3D mesh models used in our dataset from [mesh models](https://o365skku-my.sharepoint.com/:f:/g/personal/syoungk20_o365_skku_edu/EjseVNpzhy9JkZelChdkpGIBnBcVzMLc5mxvqLVcY2a7tA?e=rNzd32) which is consists of models from [1]-[3].
+Also you can download 3D mesh models used in our dataset from [mesh models](https://1drv.ms/f/s!AlqN2F6V1VqhgZhLzEg_4Dafh2B0gg?e=PJDclq) which is consists of models from [1]-[3].
 
 # References
 ```
