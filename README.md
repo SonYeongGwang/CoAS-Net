@@ -99,7 +99,7 @@ CoAS-Dataset
 - Object pose and camera pose are defined with respect to the world frame of Isaac sim.
 
 You can download our dataset from [RGB-D dataset](https://1drv.ms/f/s!AlqN2F6V1VqhgbBykFBQvehIzm0tWA?e=AR6g3G) link.
-We recommend you to have free space > 100GB in you disk(s) for using our dataset.
+We recommend you to have free space > 100GB in your disk(s) for using our dataset.
 
 Also you can download 3D mesh models used in our dataset from [mesh models](https://1drv.ms/f/s!AlqN2F6V1VqhgZhLzEg_4Dafh2B0gg?e=PJDclq) which is consists of models from [1]-[3].
 
